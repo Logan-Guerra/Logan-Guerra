@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Welcome to Logan Guerra's Hub&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=⚠️Welcome-to-Logan-Guerra's-Hub&width=2000&height=400)](https://github.com/Akshay090/svg-banners)
 
 Currently moving all of my Coding Dojo bootcamp practice code here as a fresh restart!
 
