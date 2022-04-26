@@ -4,9 +4,8 @@ Currently moving all of my Coding Dojo bootcamp practice code here as a fresh re
 As of 4/26 I havent moved it over yet but stay tuned
 
 I am currently working on some personal app developments which I hope to have up on here publically 
-
-- 📫 How to find me: 
-  - :office: [LinkedIn](https://www.linkedin.com/in/logan-guerra-442093213)
+ 
+Connect with me on :office: [LinkedIn](https://www.linkedin.com/in/logan-guerra-442093213)!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logan-guerra)](https://github.com/anuraghazra/github-readme-stats)
 
